@@ -1,10 +1,21 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=🌼Hi!%20I'm%20DaSom!🌼&fontSize=70" />
+
+# 👋 반갑습니다
+백엔드 개발자가 되기 위해 준비하고 있는 박다솜입니다.😊
+
+<img src="https://user-images.githubusercontent.com/102853354/219945915-a8698be8-591f-46b9-8b44-1d595ed12f99.gif" />
+
+# 🌱 Tech Stack
+<img src="https://img.shields.io/badge/-java-red" /> <img src="https://img.shields.io/badge/-spring-green" /> <img src="https://img.shields.io/badge/-spring%20boot-yellowgreen" /> <img src="https://img.shields.io/badge/-mysql-blue" /> <img src="https://img.shields.io/badge/-maria__db-skyblue" /> <img src="https://img.shields.io/badge/-linux-gold" />
+
+
+![mansooonuna's github stats](https://github-readme-stats.vercel.app/api?username=mansooonuna&show_icons=true)
+
+
+
+
+
 <!--
-## Hi there 👋
-<img src="./DEV/50f101d00.png" align="right" height="300
-"/>
-
-
 **mansooonuna/mansooonuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
