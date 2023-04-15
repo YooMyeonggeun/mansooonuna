@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/102853354/219945915-a8698be8-591f-46b9-8b44-1d595ed12f99.gif" />
 
 # 🌱 Tech Stack
-<img src="https://img.shields.io/badge/-java-red" /> <img src="https://img.shields.io/badge/-spring-green" /> <img src="https://img.shields.io/badge/-spring%20boot-yellowgreen" /> <img src="https://img.shields.io/badge/-mysql-blue" /> <img src="https://img.shields.io/badge/-maria__db-skyblue" /> <img src="https://img.shields.io/badge/-linux-gold" />
+<img src="https://img.shields.io/badge/-java-red" /> <img src="https://img.shields.io/badge/-spring%20boot-yellowgreen" /> <img src="https://img.shields.io/badge/-mysql-blue" /> <img src="https://img.shields.io/badge/-linux-gold" />
 
 
 ![mansooonuna's github stats](https://github-readme-stats.vercel.app/api?username=mansooonuna&show_icons=true)
