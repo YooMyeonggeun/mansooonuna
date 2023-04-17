@@ -10,10 +10,8 @@
 <img src="https://img.shields.io/badge/-java-red" /> <img src="https://img.shields.io/badge/-spring%20boot-yellowgreen" /> <img src="https://img.shields.io/badge/-mysql-blue" /> <img src="https://img.shields.io/badge/-linux-gold" />
 
 
-![mansooonuna's github stats](https://github-readme-stats.vercel.app/api?username=mansooonuna&show_icons=true)
-
-
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=parkdasom95)](https://solved.ac/parkdasom95)
 
 
 <!--
